@@ -1,5 +1,6 @@
 <template>
   <div>
+    admin
     <nuxt/>
   </div>
 </template>
